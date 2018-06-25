@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","Get all data","SUCCESS","2018-06-22T10:29:00.687+01:00[Europe/London]","0.0","4.8"
+"First serenity test","verify error test","FAILURE","2018-06-22T10:29:05.603+01:00[Europe/London]","0.0","0.12"
+"First serenity test","third data","IGNORED","2018-06-22T10:29:05.744+01:00[Europe/London]","0.0","0.0"
+"First serenity test","fourth test","PENDING","2018-06-22T10:29:05.752+01:00[Europe/London]","0.0","0.0"
+"First serenity test","Fifth test","PENDING","2018-06-22T10:29:05.754+01:00[Europe/London]","0.0","0.0"
